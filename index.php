@@ -40,7 +40,7 @@ VISI Menjadi pusat pendidikan setara kelas dunia dalam menyiapkan insan PLN yang
 
 <table id='table' cellspacing='0' align='center'><tr><th class='th' style='background: #00AFF0'>
 <marquee direction="left" behaviour="alternate"  scrollamount="2" scrolldelay="0.01" height="100%" >
-MISI Mengembangkan, Memelihara dan Meningkatkan kualitas insan PLN melalui penyelenggaraan pembelajaran dan asesmen untuk mewujudkan nilai tambah bagi stakeholder.
+MISI Mengembangkan, 
 </th>
 </marquee>
 </tr></table>
